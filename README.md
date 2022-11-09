@@ -1,2 +1,4 @@
-# simple_select_unique
-Multiple Select Unique From Initial Array
+# MSSV: 19120129
+# Họ và tên: Huỳnh Minh Thắng
+
+# Host link: https://memelist.netlify.app/
